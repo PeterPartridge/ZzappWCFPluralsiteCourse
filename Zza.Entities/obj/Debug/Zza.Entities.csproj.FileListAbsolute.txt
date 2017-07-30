@@ -1,0 +1,5 @@
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.Entities\bin\Debug\Zza.Entities.dll
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.Entities\bin\Debug\Zza.Entities.pdb
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.Entities\obj\Debug\Zza.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.Entities\obj\Debug\Zza.Entities.dll
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.Entities\obj\Debug\Zza.Entities.pdb

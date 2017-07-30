@@ -1,0 +1,14 @@
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.Services\bin\Debug\Zza.Services.dll.config
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.Services\bin\Debug\Zza.Services.dll
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.Services\bin\Debug\Zza.Services.pdb
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.Services\bin\Debug\EntityFramework.dll
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.Services\bin\Debug\Zza.Data.dll
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.Services\bin\Debug\Zza.Entities.dll
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.Services\bin\Debug\Zza.Data.pdb
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.Services\bin\Debug\Zza.Entities.pdb
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.Services\bin\Debug\EntityFramework.xml
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.Services\obj\Debug\Zza.Services.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.Services\obj\Debug\Zza.Services.dll
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.Services\obj\Debug\Zza.Services.pdb

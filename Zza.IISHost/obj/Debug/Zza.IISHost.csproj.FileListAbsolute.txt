@@ -1,0 +1,14 @@
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.IISHost\bin\Zza.IISHost.dll.config
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.IISHost\bin\Zza.IISHost.dll
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.IISHost\bin\Zza.IISHost.pdb
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.IISHost\bin\Zza.Services.dll
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.IISHost\bin\Zza.Entities.dll
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.IISHost\bin\Zza.Data.dll
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.IISHost\bin\EntityFramework.dll
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.IISHost\bin\Zza.Services.pdb
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.IISHost\bin\Zza.Entities.pdb
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.IISHost\bin\Zza.Data.pdb
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.IISHost\bin\EntityFramework.xml
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.IISHost\obj\Debug\Zza.IISHost.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.IISHost\obj\Debug\Zza.IISHost.dll
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.IISHost\obj\Debug\Zza.IISHost.pdb

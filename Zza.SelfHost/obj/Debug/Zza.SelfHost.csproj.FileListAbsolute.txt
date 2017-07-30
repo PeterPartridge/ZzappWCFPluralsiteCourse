@@ -1,0 +1,14 @@
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.SelfHost\bin\Debug\Zza.SelfHost.exe.config
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.SelfHost\bin\Debug\Zza.SelfHost.exe
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.SelfHost\bin\Debug\Zza.SelfHost.pdb
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.SelfHost\bin\Debug\Zza.Services.dll
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.SelfHost\bin\Debug\Zza.Entities.dll
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.SelfHost\bin\Debug\Zza.Data.dll
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.SelfHost\bin\Debug\EntityFramework.dll
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.SelfHost\bin\Debug\Zza.Services.pdb
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.SelfHost\bin\Debug\Zza.Entities.pdb
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.SelfHost\bin\Debug\Zza.Data.pdb
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.SelfHost\bin\Debug\EntityFramework.xml
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.SelfHost\obj\Debug\Zza.SelfHost.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.SelfHost\obj\Debug\Zza.SelfHost.exe
+C:\Users\Peter\Documents\3-wcf-jumpstart-exercise-files\before\ZzaApp\Zza.SelfHost\obj\Debug\Zza.SelfHost.pdb
